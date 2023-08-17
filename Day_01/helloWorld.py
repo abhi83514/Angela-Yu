@@ -1,2 +1,2 @@
-#Here's the frist code
+# Here's the first code
 print("hello world")
